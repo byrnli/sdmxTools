@@ -23,3 +23,5 @@ followed by the method, in this instance `GetData` and then the dataset code, `C
  
  
 ####GetData
+
+`http://govhack.abs.gov.au/restsdmx/sdmx.ashx/GetData/CPI/2+3.50.10001+999901+999902+999903.10+20.Q/ABS?startTime=2015-Q1&endTime=2015-Q2`
